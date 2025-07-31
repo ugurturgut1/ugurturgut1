@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Your Name]
+### Hi there 👋 I'm Ugur
 
 I'm a Computer Science student at the University of Manchester, currently heading into my second year.
 
